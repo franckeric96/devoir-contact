@@ -25,7 +25,7 @@ SECRET_KEY = '%6v=&b9&k(#t-i4g*=-=wgwm683fuek_h6x^g5a41ju#!v@y3g'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['mescontacts.herokuapp.com']
 
 
 # Application definition
